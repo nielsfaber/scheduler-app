@@ -60,6 +60,8 @@ Environment=NODE_ENV=production PORT=3000
 [Install]
 WantedBy=default.target
 ```
+
+4. Reload your services using `sudo systemctl daemon-reload` and enable the service to auto-start `sudo systemctl enable scheduler-app.service`.
 ### Updating
 
 * To update, execute `git clone` in the original directory to get the latest source files.
