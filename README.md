@@ -54,7 +54,7 @@ Restart=always
 RestartSec=10
 StandardOutput=syslog
 StandardError=syslog
-SyslogIdentifier=nodejs-app
+SyslogIdentifier=scheduler-app
 Environment=NODE_ENV=production PORT=3000
 
 [Install]
