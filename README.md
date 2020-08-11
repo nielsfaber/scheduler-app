@@ -1,5 +1,8 @@
 # scheduler-app
 
+## Attention: This application is not longer needed for using the [scheduler-component](https://github.com/nielsfaber/scheduler-component). 
+
+
 ## Installation
 
 ### Installation using Docker
